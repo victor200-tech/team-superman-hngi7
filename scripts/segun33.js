@@ -1,1 +1,6 @@
-console.log("Hello World, This is OGUNEKUN SEGUN VICTOR with HNDI7 ID 03092 using javascript for stage 2 task.ogunekun@gmail.com")
+
+const Name = OGUNEKUN SEGUN VICOR;
+const HNGID = HNG-03092;
+const email = ogunekun@gmail.com;
+const text = Hello world This is $ name 
+}
